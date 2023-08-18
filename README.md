@@ -24,11 +24,10 @@ I'm full stack developer with master degree in computer science by UFMG. In 2010
 <br />
 <br/>
 ### - 📫 How to reach me:
+
 [<img align="left" alt="Geraldo | LinkedIn" height="30px" width="30px" src="https://www.svgrepo.com/show/448234/linkedin.svg" />](https://www.linkedin.com/in/geraldopessoajr)
 
-[<img align="left" alt="Geraldo | Gmail" height="30px" width="30px" src="https://www.svgrepo.com/show/349378/gmail.svg" />](mailto:geraldopessoajr@gmail.com)
 
-[<img align="left" alt="Geraldo | Whatsapp" height="30px" width="30px" src="https://www.svgrepo.com/show/452133/whatsapp.svg" />](geraldopessoajr@gmail.com)
 
 <!--
 **geraldopessoajr/geraldopessoajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
