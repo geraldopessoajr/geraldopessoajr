@@ -1,6 +1,6 @@
-### Hi there, I'm Geraldo 👋 [<img align="left" alt="Geraldo | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />]([https://www.linkedin.com/in/geraldopessoajr/])
+### Hi there, I'm Geraldo 👋 
 
-I'm full stack developer with master degree in computer science by UFMG.
+I'm full stack developer with master degree in computer science by UFMG. [<img align="left" alt="Geraldo | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />]([https://www.linkedin.com/in/geraldopessoajr/])
 
 ### 🔭 I’m currently working:
 <img align="left" alt="PHP" height="30px" width="30px" src="https://www.svgrepo.com/show/373966/php.svg" />
