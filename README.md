@@ -1,4 +1,4 @@
-### Hi there, I'm Geraldo 👋 [<img align="left" alt="Geraldo | LinkedIn" height="30px" width="30px" src="https://www.svgrepo.com/show/448234/linkedin.svg" />](https://www.linkedin.com/in/geraldopessoajr)
+### Hi there, I'm Geraldo 👋 [<img align="left" alt="Geraldo | LinkedIn" height="22px" width="30px" src="https://www.svgrepo.com/show/448234/linkedin.svg" />](https://www.linkedin.com/in/geraldopessoajr)
 
 I'm full stack developer with master degree in computer science by UFMG. 
 
