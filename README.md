@@ -3,9 +3,9 @@
 I'm full stack developer with master degree in computer science by UFMG.
 
 ### 🔭 I’m currently working:
-<img align="left" alt="PHP" height="30px" width="30px" src="https://www.svgrepo.com/show/373969/php2.svg" />
+<img align="left" alt="PHP" height="30px" width="30px" src="https://www.svgrepo.com/show/373966/php.svg" />
 <img align="left" alt="Java" height="30px" width="30px" src="https://www.svgrepo.com/show/452234/java.svg" />
-<img align="left" alt="Node" height="30px" width="30px" src="https://www.svgrepo.com/show/452075/node-js.svg" />
+<img align="left" alt="Node" height="30px" width="30px" src="https://www.svgrepo.com/show/354118/nodejs.svg" />
 <img align="left" alt="HTML5" height="30px" width="30px" src="https://www.svgrepo.com/show/452228/html-5.svg" />
 <img align="left" alt="CSS3" height="30px" width="30px" src="https://www.svgrepo.com/show/452185/css-3.svg" />
 <img align="left" alt="JavaScript" height="30px" width="30px" src="https://www.svgrepo.com/show/349419/javascript.svg" />
