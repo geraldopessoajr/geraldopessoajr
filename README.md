@@ -8,15 +8,24 @@
 <img align="left" alt="Laravel" height="30px" width="30px" src="https://logospng.org/download/laravel/logo-laravel-1024.png" />
 <img align="left" alt="Java" height="30px" width="30px" src="https://logospng.org/download/java/logo-java-2048.png" />
 <img align="left" alt="Spring Boot" height="30px" width="30px" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" />
+<img align="left" alt="Python" height="30px" width="30px" src="https://logospng.org/download/python/logo-python-1024.png" />
+<img align="left" alt="Nest.js" height="30px" width="30px" src="https://docs.nestjs.com/assets/logo-small.svg" />
 <img align="left" alt="HTML5" height="30px" width="30px" src="https://logospng.org/download/html-5/logo-html-5-2048.png" />
 <img align="left" alt="CSS3" height="30px" width="30px" src="https://logospng.org/download/css-3/logo-css-3-2048.png" />
 <img align="left" alt="JavaScript" height="30px" width="30px" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png" />
 <img align="left" alt="JQuery" height="30px" width="30px" src="https://logospng.org/download/jquery/jquery-2048.png" />
 <img align="left" alt="Bootstrap" height="30px" width="30px" src="https://logospng.org/download/bootstrap/bootstrap-2048.png" />
+<img align="left" alt="git" height="30px" width="30px" src="https://logospng.org/download/git/git-2048.png" />
+<img align="left" alt="AWS" height="30px" width="30px" src="https://logospng.org/download/amazon-web-services/logo-amazon-web-services-1024.png" />
+
 <br/>
 
 ### 🌱 I’m currently learning:
 <img align="left" alt="React" height="30px" width="30px" src="https://logospng.org/download/react/logo-react-1024.png" />
+<img align="left" alt="Next.js" height="30px" width="30px" src="https://logospng.org/download/react/logo-react-1024.png" />
+<img align="left" alt="Ruby" height="30px" width="30px" src="https://logospng.org/download/node-js/logo-node-js-1024.png" />
+<img align="left" alt="Go" height="30px" width="30px" src="https://logospng.org/download/node-js/logo-node-js-1024.png" />
+
 <br />
 <!--
 **geraldopessoajr/geraldopessoajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
