@@ -6,14 +6,12 @@ I'm full stack developer with master degree in computer science by UFMG.
 <img align="left" alt="PHP" height="30px" width="30px" src="https://www.svgrepo.com/show/373969/php2.svg" />
 <img align="left" alt="Java" height="30px" width="30px" src="https://www.svgrepo.com/show/452234/java.svg" />
 <img align="left" alt="Node" height="30px" width="30px" src="https://www.svgrepo.com/show/452075/node-js.svg" />
-<img align="left" alt="HTML5" height="30px" width="30px" src="https://logospng.org/download/html-5/logo-html-5-2048.png" />
-<img align="left" alt="CSS3" height="30px" width="30px" src="https://logospng.org/download/css-3/logo-css-3-2048.png" />
-<img align="left" alt="JavaScript" height="30px" width="30px" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png" />
-<img align="left" alt="JQuery" height="30px" width="30px" src="https://logospng.org/download/jquery/jquery-2048.png" />
-<img align="left" alt="Bootstrap" height="30px" width="30px" src="https://logospng.org/download/bootstrap/bootstrap-2048.png" />
-<img align="left" alt="git" height="30px" width="30px" src="https://logospng.org/download/git/git-2048.png" />
+<img align="left" alt="HTML5" height="30px" width="30px" src="https://www.svgrepo.com/show/452228/html-5.svg" />
+<img align="left" alt="CSS3" height="30px" width="30px" src="https://www.svgrepo.com/show/452185/css-3.svg" />
+<img align="left" alt="JavaScript" height="30px" width="30px" src="https://www.svgrepo.com/show/349419/javascript.svg" />
+<img align="left" alt="git" height="30px" width="30px" src="https://www.svgrepo.com/show/452210/git.svg" />
 <img align="left" alt="Docker" height="30px" width="30px" src="https://www.svgrepo.com/show/354926/docker.svg" />
-<img align="left" alt="AWS" height="30px" width="30px" src="https://logospng.org/download/amazon-web-services/logo-amazon-web-services-1024.png" />
+<img align="left" alt="AWS" height="30px" width="30px" src="https://www.svgrepo.com/show/448266/aws.svg" />
 
 <br/>
 
