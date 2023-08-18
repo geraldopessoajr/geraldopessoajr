@@ -13,6 +13,7 @@
 <img align="left" alt="JQuery" height="30px" width="30px" src="https://logospng.org/download/jquery/jquery-2048.png" />
 <img align="left" alt="Bootstrap" height="30px" width="30px" src="https://logospng.org/download/bootstrap/bootstrap-2048.png" />
 <img align="left" alt="git" height="30px" width="30px" src="https://logospng.org/download/git/git-2048.png" />
+<img align="left" alt="Docker" height="30px" width="30px" src="https://www.svgrepo.com/show/354926/docker.svg" />
 <img align="left" alt="AWS" height="30px" width="30px" src="https://logospng.org/download/amazon-web-services/logo-amazon-web-services-1024.png" />
 
 <br/>
