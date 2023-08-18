@@ -1,5 +1,4 @@
-### Hi there, I'm Geraldo 👋 
-[<img align="left" alt="Geraldo | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />]([https://www.linkedin.com/in/geraldopessoajr/])
+### Hi there, I'm Geraldo 👋 [<img align="left" alt="Geraldo | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />]([https://www.linkedin.com/in/geraldopessoajr/])
 
 
 
