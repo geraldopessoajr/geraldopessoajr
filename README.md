@@ -13,15 +13,17 @@ I'm full stack developer with master degree in computer science by UFMG. In 2010
 <img align="left" alt="Docker" height="30px" width="30px" src="https://www.svgrepo.com/show/354926/docker.svg" />
 <img align="left" alt="AWS" height="30px" width="30px" src="https://www.svgrepo.com/show/448266/aws.svg" />
 <br/>
-### 🌱 I’m currently learning:
+<br/>
 
+### 🌱 I’m currently learning:
 <img align="left" alt="Python" height="30px" width="30px" src="https://www.svgrepo.com/show/452091/python.svg" />
 <img align="left" alt="Ruby" height="30px" width="30px" src="https://www.svgrepo.com/show/354298/ruby.svg" />
 <img align="left" alt="Go" height="30px" width="30px" src="https://www.svgrepo.com/show/353795/go.svg" />
 <img align="left" alt="React" height="30px" width="30px" src="https://www.svgrepo.com/show/354259/react.svg" />
 <img align="left" alt="Next.js" height="30px" width="30px" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" />
-<br />
 <br/>
+<br/>
+
 ### - 📫 How to reach me:
 
 [<img align="left" alt="Geraldo | LinkedIn" height="30px" width="30px" src="https://www.svgrepo.com/show/448234/linkedin.svg" />](https://www.linkedin.com/in/geraldopessoajr)
