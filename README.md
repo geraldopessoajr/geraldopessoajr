@@ -9,6 +9,7 @@ I'm full stack developer with master degree in computer science by UFMG. In 2010
 <img align="left" alt="HTML5" height="30px" width="30px" src="https://www.svgrepo.com/show/452228/html-5.svg" />
 <img align="left" alt="CSS3" height="30px" width="30px" src="https://www.svgrepo.com/show/452185/css-3.svg" />
 <img align="left" alt="JavaScript" height="30px" width="30px" src="https://www.svgrepo.com/show/349419/javascript.svg" />
+<img align="left" alt="Typescript" height="30px" width="30px" src="https://www.svgrepo.com/show/349540/typescript.svg" />
 <img align="left" alt="git" height="30px" width="30px" src="https://www.svgrepo.com/show/452210/git.svg" />
 <img align="left" alt="Docker" height="30px" width="30px" src="https://www.svgrepo.com/show/354926/docker.svg" />
 <img align="left" alt="AWS" height="30px" width="30px" src="https://www.svgrepo.com/show/448266/aws.svg" />
